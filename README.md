@@ -1,0 +1,2 @@
+# QNG
+Quantum Number Generator
